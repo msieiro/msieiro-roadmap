@@ -21,7 +21,7 @@
               <v-card-title class="text-subtitle-1">{{
                 $t(`career.qualifications.${item.qualification}`)
               }}</v-card-title>
-              <v-card-subtitle>{{ item.years }}</v-card-subtitle>
+              <v-card-subtitle>{{ formatDate(item) }}</v-card-subtitle>
               <v-card-text class="white text--primary pt-2">
                 <p>
                   <strong>{{ $t(`career.companies.${item.company}`) }}</strong>
@@ -87,6 +87,23 @@ export default {
         : type === "CERTIFICATE"
         ? "mdi-certificate-outline"
         : "";
+    },
+    formatDate(item) {
+      let result = "";
+      if (item.years.from.month) {
+        result +=
+          this.$t(`general.months.${item.years.from.month}`) +
+          " " +
+          item.years.from.year;
+      }
+      if (item.years.to.month) {
+        result +=
+          " - " +
+          this.$t(`general.months.${item.years.to.month}`) +
+          " " +
+          item.years.to.year;
+      }
+      return result;
     },
   },
 };

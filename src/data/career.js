@@ -3,7 +3,16 @@ module.exports = [
     qualification: "fullstackdev",
     company: "interculturas",
     level: "permanentcontract",
-    years: "April 2021 – Actualidad",
+    years: {
+      from: {
+        month: "april",
+        year: "2021",
+      },
+      to: {
+        month: "actually",
+        year: "",
+      },
+    },
     technologies: [
       "html",
       "css",
@@ -25,7 +34,16 @@ module.exports = [
     qualification: "bootcamp",
     company: "hab",
     level: "daw",
-    years: "October 2020 – March 2021",
+    years: {
+      from: {
+        month: "october",
+        year: "2020",
+      },
+      to: {
+        month: "march",
+        year: "2021",
+      },
+    },
     technologies: [
       "html",
       "css",
@@ -51,7 +69,16 @@ module.exports = [
     qualification: "certification",
     company: "freecodecamp",
     level: "responsivedesign",
-    years: "October 2020",
+    years: {
+      from: {
+        month: "october",
+        year: "2020",
+      },
+      to: {
+        month: "",
+        year: "",
+      },
+    },
     technologies: ["html", "css", "javascript"],
     skills: ["Architecture Patterns"],
     link: "https://www.freecodecamp.org/certification/fcc86715b66-fcc3-49ad-b077-6f15ceabb7da/responsive-web-design",
@@ -61,7 +88,16 @@ module.exports = [
     qualification: "certification",
     company: "googleactivate",
     level: "webdev2",
-    years: "September 2020",
+    years: {
+      from: {
+        month: "september",
+        year: "2020",
+      },
+      to: {
+        month: "",
+        year: "",
+      },
+    },
     technologies: ["html", "css", "javascript"],
     skills: ["Architecture Patterns"],
     link: "https://learndigital.withgoogle.com/activate/validate-certificate-code",
@@ -71,7 +107,16 @@ module.exports = [
     qualification: "certification",
     company: "googleactivate",
     level: "webdev1",
-    years: "September 2020",
+    years: {
+      from: {
+        month: "september",
+        year: "2020",
+      },
+      to: {
+        month: "",
+        year: "",
+      },
+    },
     technologies: ["html", "css", "javascript"],
     skills: ["Architecture Patterns"],
     link: "https://learndigital.withgoogle.com/activate/validate-certificate-code",
@@ -81,7 +126,16 @@ module.exports = [
     qualification: "fullstackdev",
     company: "indra",
     level: "fpdual",
-    years: "March 2020 – August 2020",
+    years: {
+      from: {
+        month: "march",
+        year: "2020",
+      },
+      to: {
+        month: "august",
+        year: "2020",
+      },
+    },
     technologies: [
       "html",
       "css",
@@ -105,7 +159,16 @@ module.exports = [
     qualification: "fps",
     company: "wirtz",
     level: "fpdual",
-    years: "September 2019 – March 2020",
+    years: {
+      from: {
+        month: "september",
+        year: "2019",
+      },
+      to: {
+        month: "march",
+        year: "2020",
+      },
+    },
     technologies: [
       "html",
       "css",
@@ -130,7 +193,16 @@ module.exports = [
     qualification: "fullstackdev",
     company: "indra",
     level: "fpdual",
-    years: "Mar 2019 – Ago 2019",
+    years: {
+      from: {
+        month: "march",
+        year: "2019",
+      },
+      to: {
+        month: "august",
+        year: "2019",
+      },
+    },
     technologies: [
       "html",
       "css",
@@ -152,7 +224,16 @@ module.exports = [
     qualification: "fps",
     company: "wirtz",
     level: "fpdual",
-    years: "September 2018 – March 2019",
+    years: {
+      from: {
+        month: "september",
+        year: "2018",
+      },
+      to: {
+        month: "march",
+        year: "2019",
+      },
+    },
     technologies: ["html", "css", "java", "SQL", "git", "github"],
     good_learning: true,
     type: "SCHOOL",
