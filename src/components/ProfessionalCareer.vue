@@ -8,12 +8,16 @@
           <v-timeline-item
             v-for="(item, i) in items"
             :key="i"
-            :color="item.color"
-            :icon="item.icon"
+            :color="checkItemColor(item.type)"
+            :icon="checkItemIcon(item.type)"
             fill-dot
             :large="item.good_learning"
           >
-            <v-card :color="item.color" dark class="text-justify">
+            <v-card
+              :color="checkItemColor(item.type)"
+              dark
+              class="text-justify"
+            >
               <v-card-title class="text-subtitle-1">{{
                 item.qualification
               }}</v-card-title>
@@ -64,6 +68,26 @@ export default {
       items: career,
       technologies,
     };
+  },
+  methods: {
+    checkItemColor(type) {
+      return type === "JOB"
+        ? "red darken-2"
+        : type === "SCHOOL"
+        ? "purple darken-3"
+        : type === "CERTIFICATE"
+        ? "yellow darken-2"
+        : "";
+    },
+    checkItemIcon(type) {
+      return type === "JOB"
+        ? "mdi-briefcase-outline"
+        : type === "SCHOOL"
+        ? "mdi-school-outline"
+        : type === "CERTIFICATE"
+        ? "mdi-certificate-outline"
+        : "";
+    },
   },
 };
 </script>

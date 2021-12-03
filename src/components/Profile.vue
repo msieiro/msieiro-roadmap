@@ -6,20 +6,28 @@
       </v-col>
       <v-col sm="12" md="8">
         <v-card-title
+          class="text-h6 text-center d-flex justify-sm-space-between justify-center"
+          ><v-chip
+            class="ma-2 mx-auto"
+            color="blue darken-2"
+            text-color="white"
+          >
+            A Coruña
+            <v-icon right> mdi-home-map-marker </v-icon> </v-chip
           >Martín Sieiro Gutiérrez<v-chip
-            class="ma-2"
-            color="teal darken-2"
+            class="ma-2 mx-auto text-center"
+            color="pink darken-2"
             text-color="white"
           >
             26 years
-            <v-icon right> mdi-cake-variant </v-icon>
-          </v-chip></v-card-title
-        >
+            <v-icon right> mdi-cake-variant </v-icon></v-chip
+          >
+        </v-card-title>
 
-        <v-card-text
+        <v-card-text class="text-center"
           >Actualmente estoy aprendiendo las siguientes tecnologías
         </v-card-text>
-        <v-card-actions class="d-flex flex-wrap">
+        <v-card-actions class="d-flex flex-wrap justify-center">
           <img
             v-for="(tech, t) in learning"
             :key="t"
