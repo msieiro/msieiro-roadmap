@@ -1,0 +1,134 @@
+{
+  "html": {
+    "name": "HTML",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
+  },
+  "css": {
+    "name": "CSS",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  },
+  "java": {
+    "name": "Java",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
+  },
+  "postgresql": {
+    "name": "PostgreSQL",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+  },
+  "spring": {
+    "name": "Spring",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"
+  },
+  "hibernate": {
+    "name": "Hibernate",
+    "src": "https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"
+  },
+  "vue": {
+    "name": "Vue JS",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"
+  },
+  "vuetify": {
+    "name": "Vuetify",
+    "src": "https://cdn.worldvectorlogo.com/logos/vuetify.svg"
+  },
+  "gradle": {
+    "name": "Gradle",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg"
+  },
+  "docker": {
+    "name": "Docker",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+  },
+  "powershell": {
+    "name": "PowerShell",
+    "src": "https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg"
+  },
+  "bash": {
+    "name": "Bash",
+    "src": "https://cdn.worldvectorlogo.com/logos/bash-1.svg"
+  },
+  "jquery": {
+    "name": "JQuery",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg"
+  },
+  "git": {
+    "name": "Git",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+  },
+  "mysql": {
+    "name": "MySQL",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+  },
+  "sass": {
+    "name": "SASS",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original-wordmark.svg"
+  },
+  "nginx": {
+    "name": "Nginx",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+  },
+  "nodejs": {
+    "name": "NodeJS",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
+  },
+  "npm": {
+    "name": "npm",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+  },
+  "react": {
+    "name": "React",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+  },
+  "tomcat": {
+    "name": "TomCat",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg"
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "src": "https://cdn.worldvectorlogo.com/logos/typescript.svg"
+  },
+  "webpack": {
+    "name": "Webpack",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg"
+  },
+  "yarn": {
+    "name": "Yarn",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"
+  },
+  "figma": {
+    "name": "Figma",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  },
+  "heroku": {
+    "name": "Heroku",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+  },
+  "github": {
+    "name": "Github",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+  },
+  "gitlab": {
+    "name": "Gitlab",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"
+  },
+  "mongodb": {
+    "name": "MongoDB",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+  },
+  "vercel": {
+    "name": "Vercel",
+    "src": "https://cdn.worldvectorlogo.com/logos/vercel.svg"
+  },
+  "cypress": {
+    "name": "Cypress",
+    "src": "https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round.svg"
+  },
+  "styled-components": {
+    "name": "Styled-Components",
+    "src": "https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"
+  }
+}
