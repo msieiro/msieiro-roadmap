@@ -19,13 +19,14 @@
         <v-card-text
           >Actualmente estoy aprendiendo las siguientes tecnologías
         </v-card-text>
-        <v-card-actions>
+        <v-card-actions class="d-flex flex-wrap">
           <img
             v-for="(tech, t) in learning"
             :key="t"
             :src="technologies[tech] && technologies[tech].src"
             :alt="technologies[tech] && technologies[tech].name"
-            height="50"
+            height="45"
+            class="mx-1 my-1"
           />
         </v-card-actions>
       </v-col>
