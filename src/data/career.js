@@ -19,7 +19,7 @@ module.exports = [
       "Architecture Patterns",
     ],
     color: "red darken-2",
-    icon: "mdi-hammer-wrench",
+    icon: "mdi-briefcase-outline",
     good_learning: true,
   },
   {
@@ -102,7 +102,7 @@ module.exports = [
       "Data Modeling",
     ],
     color: "red darken-2",
-    icon: "mdi-hammer-wrench",
+    icon: "mdi-briefcase-outline",
     good_learning: true,
   },
   {
@@ -151,7 +151,7 @@ module.exports = [
       "Data Modeling",
     ],
     color: "red darken-2",
-    icon: "mdi-hammer-wrench",
+    icon: "mdi-briefcase-outline",
     good_learning: true,
   },
   {
