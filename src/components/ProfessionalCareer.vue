@@ -37,6 +37,19 @@
                   height="45"
                   class="mx-1 my-1"
                 />
+                <v-row>
+                  <v-col>
+                    <v-chip
+                      v-for="(skill, s) in item.skills"
+                      :key="s"
+                      class="ma-2 mx-1"
+                      color="blue darken-2"
+                      text-color="white"
+                    >
+                      {{ skill }}
+                    </v-chip></v-col
+                  >
+                </v-row>
                 <v-card-actions v-if="item.link">
                   <v-btn
                     small
