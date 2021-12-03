@@ -6,7 +6,7 @@
       </v-col>
       <v-col sm="12" md="8">
         <v-card-title
-          class="text-h6 text-center d-flex justify-sm-space-between justify-center"
+          class="text-h6 text-center mx-auto d-flex justify-sm-space-between justify-center"
           ><v-chip
             class="ma-2 mx-auto"
             color="blue darken-2"
@@ -19,13 +19,13 @@
             color="pink darken-2"
             text-color="white"
           >
-            26 years
+            26 {{ $t("profile.years") }}
             <v-icon right> mdi-cake-variant </v-icon></v-chip
           >
         </v-card-title>
 
         <v-card-text class="text-center"
-          >Actualmente estoy aprendiendo las siguientes tecnologías
+          >{{ $t("profile.actually") }}
         </v-card-text>
         <v-card-actions class="d-flex flex-wrap justify-center">
           <img

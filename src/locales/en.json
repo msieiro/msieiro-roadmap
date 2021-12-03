@@ -1,4 +1,40 @@
 {
-  "language": "Language",
-  "button": "Push here"
+  "general": {
+    "language": "Language",
+    "watchcertificate": "See certification"
+  },
+  "navbar": {
+    "title": "Roadmap"
+  },
+  "profile": {
+    "years": "years",
+    "actually": "I am currently learning the following technologies"
+  },
+  "career": {
+    "qualifications": {
+      "fps": "FP Superior",
+      "fullstackdev": "Full stack web developer",
+      "bootcamp": "Bootcamp",
+      "certification": "Certification"
+    },
+    "companies": {
+      "interculturas": "Instituto Interculturas",
+      "hab": "Hack a boss",
+      "freecodecamp": "freeCodeCamp",
+      "googleactivate": "Google Actívate",
+      "indra": "Indra Sistemas",
+      "wirtz": "IES Fernando Wirtz Suárez"
+    },
+    "levels": {
+      "fpdual": "Dual vocational training",
+      "daw": "Webapp development",
+      "permanentcontract": "Permanent contract",
+      "responsivedesign": "Responsive web design",
+      "webdev1": "Introduction to web development I",
+      "webdev2": "Introduction to web development II"
+    }
+  },
+  "footer": {
+    "sentence": "Made with ❤ by "
+  }
 }

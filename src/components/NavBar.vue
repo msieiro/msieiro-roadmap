@@ -1,6 +1,8 @@
 <template>
   <v-app-bar app dense elevation="4" color="black lighten-2">
-    <v-toolbar-title class="white-text">Roadmap</v-toolbar-title>
+    <v-toolbar-title class="white-text">{{
+      $t("navbar.title")
+    }}</v-toolbar-title>
     <v-spacer></v-spacer>
     <v-btn
       class="mx-2"

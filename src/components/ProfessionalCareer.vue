@@ -19,15 +19,15 @@
               class="text-justify"
             >
               <v-card-title class="text-subtitle-1">{{
-                item.qualification
+                $t(`career.qualifications.${item.qualification}`)
               }}</v-card-title>
               <v-card-subtitle>{{ item.years }}</v-card-subtitle>
               <v-card-text class="white text--primary pt-2">
                 <p>
-                  <strong>{{ item.school }}</strong>
+                  <strong>{{ $t(`career.companies.${item.company}`) }}</strong>
                 </p>
                 <p>
-                  <em>{{ item.level }}</em>
+                  <em>{{ $t(`career.levels.${item.level}`) }}</em>
                 </p>
                 <img
                   v-for="(tech, t) in item.technologies"
@@ -46,7 +46,7 @@
                     :href="item.link"
                     target="_blank"
                   >
-                    Ver certificación
+                    {{ $t("general.watchcertificate") }}
                   </v-btn>
                 </v-card-actions>
               </v-card-text>

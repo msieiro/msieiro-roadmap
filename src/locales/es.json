@@ -1,4 +1,40 @@
 {
-  "language": "Idioma",
-  "button": "Pulsa aquí"
+  "general": {
+    "language": "Idioma",
+    "watchcertificate": "Ver certificado"
+  },
+  "navbar": {
+    "title": "Hoja de ruta"
+  },
+  "profile": {
+    "years": "años",
+    "actually": "Actualmente estoy aprendiendo las siguientes tecnologías"
+  },
+  "career": {
+    "qualifications": {
+      "fps": "FP Superior",
+      "fullstackdev": "Desarrollador web full stack",
+      "bootcamp": "Bootcamp",
+      "certification": "Certificación"
+    },
+    "companies": {
+      "interculturas": "Instituto Interculturas",
+      "hab": "Hack a boss",
+      "freecodecamp": "freeCodeCamp",
+      "googleactivate": "Google Actívate",
+      "indra": "Indra Sistemas",
+      "wirtz": "IES Fernando Wirtz Suárez"
+    },
+    "levels": {
+      "fpdual": "Formación Profesional Dual",
+      "daw": "Desarrollo de aplicaciones web",
+      "permanentcontract": "Contrato indefinido",
+      "responsivedesign": "Diseño web responsive",
+      "webdev1": "Introducción al Desarrollo Web I",
+      "webdev2": "Introducción al Desarrollo Web II"
+    }
+  },
+  "footer": {
+    "sentence": "Hecho con ❤ por "
+  }
 }

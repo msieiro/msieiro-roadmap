@@ -10,7 +10,7 @@
           width="140"
         >
           <v-icon left> mdi-earth </v-icon>
-          {{ $t("language") }}
+          {{ $t("general.language") }}
         </v-btn>
       </template>
       <v-list>
