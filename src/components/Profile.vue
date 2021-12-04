@@ -6,16 +6,16 @@
       </v-col>
       <v-col sm="12" md="8">
         <v-card-title
-          class="text-h6 text-center mx-auto d-flex justify-sm-space-between justify-center"
+          class="text-h6 text-center mx-auto d-flex justify-sm-space-between justify-center morePadding minimizedText"
           ><v-chip
-            class="ma-2 mx-auto"
+            class="ma-2 mx-auto ml-1 mr-1"
             color="blue darken-2"
             text-color="white"
           >
             A Coruña
             <v-icon right> mdi-home-map-marker </v-icon> </v-chip
           >Martín Sieiro Gutiérrez<v-chip
-            class="ma-2 mx-auto text-center"
+            class="ma-2 mx-auto ml-1 mr-1"
             color="pink darken-2"
             text-color="white"
           >
@@ -56,4 +56,16 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+@media (max-width: 516px) {
+  .morePadding {
+    padding-left: 75px !important;
+    padding-right: 75px !important;
+  }
+}
+@media (max-width: 400px) {
+  .minimizedText {
+    font-size: 0.7em !important;
+  }
+}
+</style>
