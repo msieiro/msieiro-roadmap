@@ -45,10 +45,28 @@
     <v-timeline align-top :dense="$vuetify.breakpoint.smAndDown">
       <v-timeline-item icon="mdi-github" color="black">
         <v-card dark class="text-justify" color="black" max-width="300">
-          <v-card-title class="text-subtitle-1">Github</v-card-title>
+          <v-card-title class="text-subtitle-1">
+            vimeo-downloader-compressor</v-card-title
+          >
           <v-card-text class="white text--primary pt-2">
+            <em> Downloader and compressor of private videos from Vimeo. </em>
+            <!-- <img
+              v-for="(tech, t) in learning"
+              :key="t"
+              :src="technologies[tech] && technologies[tech].src"
+              :alt="technologies[tech] && technologies[tech].name"
+              height="45"
+              class="mx-1 my-1"
+            /> -->
             <v-card-actions>
-              <v-btn small text color="black" class="mx-auto" target="_blank">
+              <v-btn
+                small
+                text
+                color="black"
+                class="mx-auto"
+                target="_blank"
+                href="https://github.com/msieiro/vimeo-downloader-compressor"
+              >
                 Ver repositorio
               </v-btn>
             </v-card-actions>
@@ -73,6 +91,4 @@ export default {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>
