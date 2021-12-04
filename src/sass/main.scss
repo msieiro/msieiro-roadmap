@@ -5,3 +5,15 @@ $color-pack: false;
 * {
   font-family: "Open Sans", sans-serif;
 }
+
+@media (max-width: 516px) {
+  .morePadding {
+    padding-left: 75px !important;
+    padding-right: 75px !important;
+  }
+}
+@media (max-width: 425px) {
+  .minimizedText {
+    font-size: 1rem !important;
+  }
+}

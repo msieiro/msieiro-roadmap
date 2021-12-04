@@ -2,9 +2,7 @@
   <v-app>
     <NavBar />
     <v-main>
-      <v-container>
-        <Profile />
-      </v-container>
+      <Profile />
       <ProfessionalCareer />
     </v-main>
     <Footer />
