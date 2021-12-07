@@ -43,10 +43,10 @@
                       v-for="(skill, s) in item.skills"
                       :key="s"
                       class="ma-2 mx-1"
-                      color="blue darken-2"
+                      :color="checkItemColor(item.type)"
                       text-color="white"
                     >
-                      {{ skill }}
+                      {{ $t(`career.skills.${skill}`) }}
                     </v-chip></v-col
                   >
                 </v-row>
@@ -59,7 +59,7 @@
                     :href="item.link"
                     target="_blank"
                   >
-                    {{ $t("general.watchcertificate") }}
+                    {{ $t("general.seecertificate") }}
                   </v-btn>
                 </v-card-actions>
               </v-card-text>
@@ -85,11 +85,11 @@ export default {
   methods: {
     checkItemColor(type) {
       return type === "JOB"
-        ? "red darken-2"
+        ? "red darken-3"
         : type === "SCHOOL"
         ? "purple darken-3"
         : type === "CERTIFICATE"
-        ? "yellow darken-2"
+        ? "pink darken-3"
         : "";
     },
     checkItemIcon(type) {
