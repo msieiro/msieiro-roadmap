@@ -3,7 +3,11 @@
     <v-card elevation="2" outlined max-width="800" class="mx-auto">
       <v-row>
         <v-col sm="12" md="4">
-          <v-img loading="lazy" src="../assets/images/yo.jpeg"></v-img>
+          <v-img
+            loading="lazy"
+            src="../assets/images/yo.jpeg"
+            alt="Martin Sieiro Gutiérrez"
+          ></v-img>
         </v-col>
         <v-col sm="12" md="8">
           <v-card-title
@@ -33,11 +37,11 @@
             <img
               v-for="(tech, t) in profile.learning"
               :key="t"
-              :src="technologies[tech] && technologies[tech].src"
-              :alt="technologies[tech] && technologies[tech].name"
-              height="45"
               class="mx-1 my-1"
+              height="45"
               loading="lazy"
+              :alt="technologies[tech] && technologies[tech].name"
+              :src="technologies[tech] && technologies[tech].src"
             />
           </v-card-actions>
         </v-col>

@@ -32,11 +32,11 @@
                 <img
                   v-for="(tech, t) in item.technologies"
                   :key="t"
-                  :src="technologies[tech] && technologies[tech].src"
-                  :alt="technologies[tech] && technologies[tech].name"
-                  height="45"
                   class="mx-1 my-1"
+                  height="45"
                   loading="lazy"
+                  :alt="technologies[tech] && technologies[tech].name"
+                  :src="technologies[tech] && technologies[tech].src"
                 />
                 <v-row>
                   <v-col>
