@@ -20,11 +20,4 @@ export default {
 };
 </script>
 
-<style>
-.sm {
-  width: 6em;
-}
-.white-text {
-  color: white;
-}
-</style>
+<style></style>
