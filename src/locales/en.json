@@ -1,8 +1,8 @@
 {
   "general": {
     "language": "Language",
-    "watchcertificate": "See certification",
-    "watchrepository": "Go to repository",
+    "seecertificate": "See certification",
+    "gotorepository": "Go to repository",
     "months": {
       "actually": "Actually",
       "january": "January",
@@ -48,6 +48,10 @@
       "responsivedesign": "Responsive web design",
       "webdev1": "Introduction to web development I",
       "webdev2": "Introduction to web development II"
+    },
+    "skills": {
+      "architecture-patterns": "Architecture Patterns",
+      "data-modeling": "Data Modeling"
     }
   },
   "footer": {
