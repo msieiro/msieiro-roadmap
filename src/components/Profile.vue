@@ -5,7 +5,7 @@
         <v-col sm="12" md="4">
           <v-img
             loading="lazy"
-            src="../assets/images/yo.jpeg"
+            src="../assets/images/yo.webp"
             alt="Martin Sieiro Gutiérrez"
           ></v-img>
         </v-col>
