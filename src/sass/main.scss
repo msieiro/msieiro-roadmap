@@ -1,6 +1,8 @@
 $color-pack: false;
 
 @import "~vuetify/src/styles/main.sass";
+@import "./fonts.scss";
+@import "~@mdi/font/css/materialdesignicons.min.css";
 
 * {
   font-family: "Open Sans", sans-serif;
