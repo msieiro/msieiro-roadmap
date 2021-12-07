@@ -36,6 +36,7 @@
                   :alt="technologies[tech] && technologies[tech].name"
                   height="45"
                   class="mx-1 my-1"
+                  loading="lazy"
                 />
                 <v-row>
                   <v-col>
