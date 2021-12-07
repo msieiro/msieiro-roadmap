@@ -2,6 +2,7 @@
   "general": {
     "language": "Idioma",
     "watchcertificate": "Ver certificado",
+    "watchrepository": "Ver el repositorio",
     "months": {
       "actually": "Actualmente",
       "january": "Enero",
