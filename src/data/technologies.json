@@ -145,6 +145,6 @@
   },
   "wordpress": {
     "name": "Wordpress",
-    "src": "../assets/images/wordpress.svg"
+    "src": "https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg"
   }
 }
