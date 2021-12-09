@@ -51,7 +51,9 @@
     },
     "skills": {
       "architecture-patterns": "Patrones de arquitectura",
-      "data-modeling": "Modelado de datos"
+      "data-modeling": "Modelado de datos",
+      "accessibility": "Accesibilidad",
+      "responsive-design": "Diseño responsive"
     }
   },
   "footer": {

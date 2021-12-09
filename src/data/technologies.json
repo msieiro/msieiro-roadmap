@@ -119,6 +119,12 @@
     "height": 45,
     "width": 45
   },
+  "express": {
+    "name": "Express",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+    "height": 45,
+    "width": 45
+  },
   "npm": {
     "name": "npm",
     "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
