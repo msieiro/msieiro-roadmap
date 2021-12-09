@@ -36,7 +36,12 @@ module.exports = [
       "yarn",
       "gitlab",
     ],
-    skills: ["architecture-patterns", "data-modeling"],
+    skills: [
+      "architecture-patterns",
+      "data-modeling",
+      "accessibility",
+      "responsive-design",
+    ],
     good_learning: true,
     type: "JOB",
   },

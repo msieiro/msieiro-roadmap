@@ -18,6 +18,7 @@
               dark
               class="text-justify"
               elevation="6"
+              max-width="850"
             >
               <v-card-title class="text-subtitle-1">{{
                 $t(`career.qualifications.${item.qualification}`)
