@@ -4,7 +4,6 @@
       <v-row>
         <v-col sm="12" md="4">
           <v-img
-            loading="lazy"
             src="https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639074010/me/yo_x3fn8f.webp"
             alt="Martin Sieiro Gutiérrez"
           ></v-img>
@@ -38,7 +37,6 @@
               v-for="(tech, t) in profile.learning"
               :key="t"
               class="mx-1 my-1"
-              loading="lazy"
               :height="technologies[tech] && technologies[tech].height"
               :width="technologies[tech] && technologies[tech].width"
               :alt="technologies[tech] && technologies[tech].name"

@@ -37,11 +37,9 @@
                     class="mx-1 my-1 justify-start"
                     :height="technologies[tech] && technologies[tech].height"
                     :width="technologies[tech] && technologies[tech].width"
-                    loading="lazy"
                     :alt="technologies[tech] && technologies[tech].name"
                     :src="technologies[tech] && technologies[tech].src"
                     contain
-                    center
                   ></v-img>
                 </v-container>
                 <v-row>
