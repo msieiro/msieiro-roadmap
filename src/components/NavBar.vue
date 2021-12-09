@@ -11,6 +11,7 @@
       alt="Github"
       target="_blank"
       small
+      icon
     >
       <v-icon dark> mdi-github </v-icon>
     </v-btn>
@@ -20,6 +21,7 @@
       alt="Linkedin"
       target="_blank"
       small
+      icon
     >
       <v-icon color="primary"> mdi-linkedin </v-icon>
     </v-btn>
