@@ -38,8 +38,9 @@
               v-for="(tech, t) in profile.learning"
               :key="t"
               class="mx-1 my-1"
-              height="45"
               loading="lazy"
+              :height="technologies[tech] && technologies[tech].height"
+              :width="technologies[tech] && technologies[tech].width"
               :alt="technologies[tech] && technologies[tech].name"
               :src="technologies[tech] && technologies[tech].src"
             />
