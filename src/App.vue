@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <NavBar />
-    <v-main>
+    <v-main class="bg">
       <Profile />
       <ProfessionalCareer />
     </v-main>
@@ -20,4 +20,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss">
+.bg {
+  background-color: #e8e9ed !important;
+}
+</style>

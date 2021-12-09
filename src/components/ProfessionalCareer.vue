@@ -17,6 +17,7 @@
               :color="checkItemColor(item.type)"
               dark
               class="text-justify"
+              elevation="6"
             >
               <v-card-title class="text-subtitle-1">{{
                 $t(`career.qualifications.${item.qualification}`)
@@ -54,8 +55,10 @@
                 </v-row>
                 <v-card-actions v-if="item.link">
                   <v-btn
-                    small
                     text
+                    elevation="2"
+                    outlined
+                    x-small
                     color="black"
                     class="mx-auto"
                     :href="item.link"

@@ -14,7 +14,7 @@
             class="text-h6 text-center mx-auto d-flex justify-sm-space-between justify-center morePadding minimizedText"
             ><v-chip
               class="ma-2 mx-auto ml-1 mr-1 minimizedText"
-              color="green darken-3"
+              color="black"
               text-color="white"
             >
               A Coruña
@@ -22,7 +22,7 @@
             ><span class="minimizedText">Martín Sieiro Gutiérrez</span
             ><v-chip
               class="ma-2 mx-auto ml-1 mr-1 minimizedText"
-              color="cyan darken-3"
+              color="black"
               text-color="white"
             >
               26 {{ $t("profile.years") }}
