@@ -1,235 +1,235 @@
 {
   "html": {
     "name": "HTML",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639070500/tech_icons/html_pktch9.svg",
     "height": 45,
     "width": 45
   },
   "css": {
     "name": "CSS",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639070695/tech_icons/css_kav704.svg",
     "height": 45,
     "width": 45
   },
   "javascript": {
     "name": "JavaScript",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639070870/tech_icons/javascript_xu8ise.svg",
     "height": 45,
     "width": 45
   },
   "java": {
     "name": "Java",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639070911/tech_icons/java_zmojrn.svg",
     "height": 45,
     "width": 45
   },
   "postgresql": {
     "name": "PostgreSQL",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071059/tech_icons/postgresql-original-wordmark_lsfsbs.svg",
     "height": 45,
     "width": 45
   },
   "spring": {
     "name": "Spring",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071058/tech_icons/spring-original-wordmark_vwoyd3.svg",
     "height": 45,
     "width": 45
   },
   "hibernate": {
     "name": "Hibernate",
-    "src": "https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071164/tech_icons/hibernate-ar21_wnzkjw.svg",
     "height": 45,
     "width": 95
   },
   "vue": {
     "name": "Vue JS",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071164/tech_icons/vuejs-original-wordmark_bvd4gc.svg",
     "height": 45,
     "width": 45
   },
   "vuetify": {
     "name": "Vuetify",
-    "src": "https://cdn.worldvectorlogo.com/logos/vuetify.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071164/tech_icons/vuetify_auqk6n.svg",
     "height": 45,
     "width": 45
   },
   "gradle": {
     "name": "Gradle",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071232/tech_icons/gradle-plain-wordmark_tg5cxs.svg",
     "height": 45,
     "width": 45
   },
   "docker": {
     "name": "Docker",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071231/tech_icons/docker-original-wordmark_yd17oy.svg",
     "height": 45,
     "width": 45
   },
   "powershell": {
     "name": "PowerShell",
-    "src": "https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071231/tech_icons/PowerShell_vhawva.svg",
     "height": 45,
     "width": 45
   },
   "bash": {
     "name": "Bash",
-    "src": "https://cdn.worldvectorlogo.com/logos/bash-1.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071231/tech_icons/bash-1_f84knx.svg",
     "height": 45,
     "width": 85
   },
   "jquery": {
     "name": "JQuery",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071316/tech_icons/jquery-original-wordmark_wnlsul.svg",
     "height": 45,
     "width": 45
   },
   "git": {
     "name": "Git",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071316/tech_icons/git-original_s7seoj.svg",
     "height": 45,
     "width": 45
   },
   "mysql": {
     "name": "MySQL",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071316/tech_icons/mysql-original-wordmark_a9gwnc.svg",
     "height": 45,
     "width": 45
   },
   "mssqlserver": {
     "name": "Microsoft SQL Server",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071316/tech_icons/microsoftsqlserver-plain-wordmark_glaj6d.svg",
     "height": 45,
     "width": 45
   },
   "sass": {
     "name": "SASS",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071410/tech_icons/sass-original_pcthvu.svg",
     "height": 45,
     "width": 45
   },
   "nginx": {
     "name": "Nginx",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071410/tech_icons/nginx-original_ox2ppo.svg",
     "height": 45,
     "width": 45
   },
   "nodejs": {
     "name": "NodeJS",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071410/tech_icons/nodejs-original_hbcz5d.svg",
     "height": 45,
     "width": 45
   },
   "express": {
     "name": "Express",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071410/tech_icons/express-original-wordmark_wbliyk.svg",
     "height": 45,
     "width": 45
   },
   "npm": {
     "name": "npm",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071537/tech_icons/npm-original-wordmark_bysme7.svg",
     "height": 45,
     "width": 45
   },
   "react": {
     "name": "React",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071536/tech_icons/react-original-wordmark_v7extc.svg",
     "height": 45,
     "width": 45
   },
   "tomcat": {
-    "name": "TomCat",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg",
+    "name": "Tomcat",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071536/tech_icons/tomcat-original-wordmark_iucaap.svg",
     "height": 45,
     "width": 45
   },
   "typescript": {
     "name": "TypeScript",
-    "src": "https://cdn.worldvectorlogo.com/logos/typescript.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071536/tech_icons/typescript_pvjrvk.svg",
     "height": 45,
     "width": 45
   },
   "webpack": {
     "name": "Webpack",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071536/tech_icons/webpack-original_xbuci2.svg",
     "height": 45,
     "width": 45
   },
   "yarn": {
     "name": "Yarn",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071628/tech_icons/yarn-original_gukv3w.svg",
     "height": 45,
     "width": 55
   },
   "figma": {
     "name": "Figma",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071628/tech_icons/figma-original_fv9c9s.svg",
     "height": 45,
     "width": 45
   },
   "heroku": {
     "name": "Heroku",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071628/tech_icons/heroku-original_swvukl.svg",
     "height": 45,
     "width": 45
   },
   "github": {
     "name": "Github",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071628/tech_icons/github-original-wordmark_zlyt5u.svg",
     "height": 45,
     "width": 45
   },
   "gitlab": {
     "name": "Gitlab",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071628/tech_icons/gitlab-original-wordmark_mnghjv.svg",
     "height": 45,
     "width": 45
   },
   "mongodb": {
     "name": "MongoDB",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071714/tech_icons/mongodb-original-wordmark_morgme.svg",
     "height": 45,
     "width": 45
   },
   "vercel": {
     "name": "Vercel",
-    "src": "https://cdn.worldvectorlogo.com/logos/vercel.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071714/tech_icons/vercel_bmgmqw.svg",
     "height": 45,
     "width": 95
   },
   "cypress": {
     "name": "Cypress",
-    "src": "https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-round.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071714/tech_icons/cypress-io-logo-round_m6tl1o.svg",
     "height": 45,
     "width": 45
   },
   "styled-components": {
     "name": "Styled-Components",
-    "src": "https://cdn.worldvectorlogo.com/logos/styled-components-1.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071714/tech_icons/styled-components-1_cfmsly.svg",
     "height": 45,
     "width": 45
   },
   "github-actions": {
     "name": "Github Actions",
-    "src": "https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071714/tech_icons/actions-icon-actions_asmate.svg",
     "height": 45,
     "width": 45
   },
   "react-query": {
     "name": "React Query",
-    "src": "https://react-query.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071814/tech_icons/logo-7a7896631260eebffcb031765854375b_cbfx19.svg",
     "height": 45,
     "width": 95
   },
   "bootstrap": {
     "name": "Bootstrap",
-    "src": "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071814/tech_icons/bootstrap-5-1_n1kr5f.svg",
     "height": 45,
     "width": 45
   },
   "wordpress": {
     "name": "Wordpress",
-    "src": "https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg",
+    "src": "https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639071814/tech_icons/wordpress-blue_iqbz2p.svg",
     "height": 45,
     "width": 45
   }
