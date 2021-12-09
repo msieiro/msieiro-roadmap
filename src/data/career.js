@@ -19,6 +19,7 @@ module.exports = [
       "javascript",
       "vue",
       "vuetify",
+      "webpack",
       "sass",
       "cypress",
       "java",

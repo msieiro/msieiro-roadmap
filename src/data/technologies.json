@@ -85,7 +85,7 @@
   },
   "git": {
     "name": "Git",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
     "height": 45,
     "width": 45
   },
@@ -97,7 +97,7 @@
   },
   "mssqlserver": {
     "name": "Microsoft SQL Server",
-    "src": "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg",
     "height": 45,
     "width": 45
   },
@@ -115,7 +115,7 @@
   },
   "nodejs": {
     "name": "NodeJS",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     "height": 45,
     "width": 45
   },
@@ -151,13 +151,13 @@
   },
   "webpack": {
     "name": "Webpack",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg",
     "height": 45,
     "width": 45
   },
   "yarn": {
     "name": "Yarn",
-    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg",
+    "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg",
     "height": 45,
     "width": 55
   },
