@@ -8,6 +8,7 @@
       class="mx-2"
       color="white"
       href="https://github.com/msieiro"
+      alt="Github"
       target="_blank"
       small
     >
@@ -16,6 +17,7 @@
     <v-btn
       class="mx-2"
       href="https://www.linkedin.com/in/martinsieirogutierrez/"
+      alt="Linkedin"
       target="_blank"
       small
     >
