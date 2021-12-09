@@ -5,7 +5,7 @@
         <v-col sm="12" md="4">
           <v-img
             loading="lazy"
-            src="../assets/images/yo.webp"
+            src="https://res.cloudinary.com/msieiro/image/upload/f_auto,q_auto/v1639074010/me/yo_x3fn8f.webp"
             alt="Martin Sieiro Gutiérrez"
           ></v-img>
         </v-col>

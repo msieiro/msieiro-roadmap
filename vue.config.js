@@ -6,7 +6,7 @@ module.exports = {
     },
     optimization: {
       splitChunks: {
-        minSize: 10000,
+        minSize: 1000,
         maxSize: 25000,
       },
     },
