@@ -30,16 +30,20 @@
                 <p>
                   <em>{{ $t(`career.levels.${item.level}`) }}</em>
                 </p>
-                <img
-                  v-for="(tech, t) in item.technologies"
-                  :key="t"
-                  class="mx-1 my-1"
-                  :height="technologies[tech] && technologies[tech].height"
-                  :width="technologies[tech] && technologies[tech].width"
-                  loading="lazy"
-                  :alt="technologies[tech] && technologies[tech].name"
-                  :src="technologies[tech] && technologies[tech].src"
-                />
+                <v-container class="d-flex flex-wrap">
+                  <v-img
+                    v-for="(tech, t) in item.technologies"
+                    :key="t"
+                    class="mx-1 my-1"
+                    :height="technologies[tech] && technologies[tech].height"
+                    :width="technologies[tech] && technologies[tech].width"
+                    loading="lazy"
+                    :alt="technologies[tech] && technologies[tech].name"
+                    :src="technologies[tech] && technologies[tech].src"
+                    contain
+                    center
+                  ></v-img>
+                </v-container>
                 <v-row>
                   <v-col>
                     <v-chip

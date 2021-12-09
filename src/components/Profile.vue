@@ -34,7 +34,7 @@
             >{{ $t("profile.actually") }}
           </v-card-text>
           <v-card-actions class="d-flex flex-wrap justify-center">
-            <img
+            <v-img
               v-for="(tech, t) in profile.learning"
               :key="t"
               class="mx-1 my-1"
@@ -43,7 +43,8 @@
               :width="technologies[tech] && technologies[tech].width"
               :alt="technologies[tech] && technologies[tech].name"
               :src="technologies[tech] && technologies[tech].src"
-            />
+              contain
+            ></v-img>
           </v-card-actions>
         </v-col>
       </v-row>
