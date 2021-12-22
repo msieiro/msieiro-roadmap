@@ -1,6 +1,6 @@
 import "@mdi/font/css/materialdesignicons.min.css";
 import Vue from "vue";
-import Vuetify, {
+import {
   VApp,
   VAppBar,
   VBtn,
@@ -25,6 +25,7 @@ import Vuetify, {
   VTimelineItem,
   VToolbarTitle,
 } from "vuetify/lib";
+import Vuetify from "vuetify/lib/framework";
 
 Vue.use(Vuetify, {
   components: {
