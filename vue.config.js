@@ -1,5 +1,4 @@
 module.exports = {
-  transpileDependencies: ["vuetify"],
   configureWebpack: {
     performance: {
       hints: false,
@@ -19,14 +18,5 @@ module.exports = {
       enableInSFC: true,
       enableBridge: false,
     },
-  },
-  chainWebpack: (config) => {
-    config.module
-      .rule("vue")
-      .use("vue-loader")
-      .end()
-      .use("vue")
-      .loader("vuetify-loader")
-      .end();
   },
 };
