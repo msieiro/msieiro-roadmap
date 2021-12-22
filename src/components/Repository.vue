@@ -34,8 +34,26 @@
 </template>
 
 <script>
+import {
+  VTimeline,
+  VTimelineItem,
+  VCard,
+  VCardTitle,
+  VCardText,
+  VCardActions,
+  VBtn,
+} from "vuetify/lib";
 export default {
   name: "Repository",
+  components: {
+    VTimeline,
+    VTimelineItem,
+    VCard,
+    VCardTitle,
+    VCardText,
+    VCardActions,
+    VBtn,
+  },
   props: {
     repository: Object,
   },

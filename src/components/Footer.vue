@@ -9,8 +9,13 @@
 </template>
 
 <script>
+import { VFooter, VCol } from "vuetify/lib";
 export default {
   name: "Footer",
+  components: {
+    VFooter,
+    VCol,
+  },
 };
 </script>
 

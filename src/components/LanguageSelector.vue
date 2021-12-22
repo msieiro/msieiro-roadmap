@@ -35,9 +35,11 @@
 </template>
 
 <script>
+import { VMenu, VBtn, VList, VListItemTitle, VDivider } from "vuetify/lib";
 import languages from "../data/languages";
 export default {
   name: "LanguageSelector",
+  components: { VMenu, VBtn, VList, VListItemTitle, VDivider },
   data() {
     return {
       localeItems: languages,

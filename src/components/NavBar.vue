@@ -30,10 +30,18 @@
 </template>
 
 <script>
+import { VAppBar, VToolbarTitle, VSpacer, VBtn, VIcon } from "vuetify/lib";
 import LanguageSelector from "./LanguageSelector";
 export default {
   name: "NavBar",
-  components: { LanguageSelector },
+  components: {
+    LanguageSelector,
+    VAppBar,
+    VToolbarTitle,
+    VSpacer,
+    VBtn,
+    VIcon,
+  },
 };
 </script>
 

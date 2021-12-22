@@ -52,12 +52,36 @@
 </template>
 
 <script>
+import {
+  VRow,
+  VCol,
+  VContainer,
+  VCard,
+  VCardTitle,
+  VCardText,
+  VImg,
+  VChip,
+  VIcon,
+  VCardActions,
+} from "vuetify/lib";
 import technologies from "../data/technologies";
 import profile from "../data/profile";
 import Repository from "./Repository";
 export default {
   name: "Profile",
-  components: { Repository },
+  components: {
+    Repository,
+    VRow,
+    VCol,
+    VContainer,
+    VCard,
+    VCardTitle,
+    VCardText,
+    VImg,
+    VChip,
+    VIcon,
+    VCardActions,
+  },
   data() {
     return {
       technologies,

@@ -80,10 +80,38 @@
 </template>
 
 <script>
+import {
+  VRow,
+  VCol,
+  VContainer,
+  VTimeline,
+  VTimelineItem,
+  VCard,
+  VCardTitle,
+  VCardText,
+  VImg,
+  VChip,
+  VCardActions,
+  VBtn,
+} from "vuetify/lib";
 import technologies from "../data/technologies";
 import career from "../data/career";
 export default {
   name: "ProfessionalCareer",
+  components: {
+    VRow,
+    VCol,
+    VContainer,
+    VTimeline,
+    VTimelineItem,
+    VCard,
+    VCardTitle,
+    VCardText,
+    VImg,
+    VChip,
+    VCardActions,
+    VBtn,
+  },
   data() {
     return {
       items: career,
