@@ -88,10 +88,11 @@ import {
   VTimelineItem,
   VCard,
   VCardTitle,
+  VCardSubtitle,
   VCardText,
+  VCardActions,
   VImg,
   VChip,
-  VCardActions,
   VBtn,
 } from "vuetify/lib";
 import technologies from "../data/technologies";
@@ -106,10 +107,11 @@ export default {
     VTimelineItem,
     VCard,
     VCardTitle,
+    VCardSubtitle,
     VCardText,
+    VCardActions,
     VImg,
     VChip,
-    VCardActions,
     VBtn,
   },
   data() {
