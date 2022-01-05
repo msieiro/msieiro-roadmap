@@ -10,7 +10,7 @@ module.exports = {
       flagIncludedChunks: true,
       mangleWasmImports: true,
       mergeDuplicateChunks: true,
-      minimize: false,
+      minimize: true,
       moduleIds: "size",
       removeAvailableModules: true,
       removeEmptyChunks: true,
