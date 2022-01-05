@@ -15,8 +15,8 @@ module.exports = {
       removeAvailableModules: true,
       removeEmptyChunks: true,
       splitChunks: {
-        minSize: 15000,
-        maxSize: 30000,
+        minSize: 5000,
+        maxSize: 10000,
       },
     },
   },
