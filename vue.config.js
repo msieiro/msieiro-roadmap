@@ -5,7 +5,7 @@ module.exports = {
     },
     optimization: {
       nodeEnv: "production",
-      chunkIds: "size",
+      chunkIds: "total-size",
       concatenateModules: true,
       flagIncludedChunks: true,
       mangleWasmImports: true,
