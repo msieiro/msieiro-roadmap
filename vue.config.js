@@ -14,10 +14,6 @@ module.exports = {
       moduleIds: "size",
       removeAvailableModules: true,
       removeEmptyChunks: true,
-      splitChunks: {
-        minSize: 5000,
-        maxSize: 10000,
-      },
     },
   },
   pluginOptions: {
