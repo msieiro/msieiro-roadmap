@@ -47,30 +47,27 @@
         </v-col>
       </v-row>
     </v-card>
-    <Repository :repository="profile.repository" />
   </v-container>
 </template>
 
 <script>
 import {
-  VRow,
+  VCard,
+  VCardActions,
+  VCardText,
+  VCardTitle,
+  VChip,
   VCol,
   VContainer,
-  VCard,
-  VCardTitle,
-  VCardText,
-  VImg,
-  VChip,
   VIcon,
-  VCardActions,
+  VImg,
+  VRow,
 } from "vuetify/lib";
-import technologies from "../data/technologies";
 import profile from "../data/profile";
-import Repository from "./Repository";
+import technologies from "../data/technologies";
 export default {
   name: "Profile",
   components: {
-    Repository,
     VRow,
     VCol,
     VContainer,
@@ -90,5 +87,3 @@ export default {
   },
 };
 </script>
-
-<style></style>

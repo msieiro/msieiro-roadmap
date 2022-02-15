@@ -35,13 +35,13 @@
 
 <script>
 import {
+  VBtn,
+  VCard,
+  VCardActions,
+  VCardText,
+  VCardTitle,
   VTimeline,
   VTimelineItem,
-  VCard,
-  VCardTitle,
-  VCardText,
-  VCardActions,
-  VBtn,
 } from "vuetify/lib";
 export default {
   name: "Repository",
@@ -59,5 +59,3 @@ export default {
   },
 };
 </script>
-
-<style></style>

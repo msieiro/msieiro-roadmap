@@ -81,22 +81,22 @@
 
 <script>
 import {
-  VRow,
-  VCol,
-  VContainer,
-  VTimeline,
-  VTimelineItem,
+  VBtn,
   VCard,
-  VCardTitle,
+  VCardActions,
   VCardSubtitle,
   VCardText,
-  VCardActions,
-  VImg,
+  VCardTitle,
   VChip,
-  VBtn,
+  VCol,
+  VContainer,
+  VImg,
+  VRow,
+  VTimeline,
+  VTimelineItem,
 } from "vuetify/lib";
-import technologies from "../data/technologies";
 import career from "../data/career";
+import technologies from "../data/technologies";
 export default {
   name: "ProfessionalCareer",
   components: {
@@ -159,5 +159,3 @@ export default {
   },
 };
 </script>
-
-<style></style>

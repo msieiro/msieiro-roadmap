@@ -30,7 +30,7 @@
 </template>
 
 <script>
-import { VAppBar, VToolbarTitle, VSpacer, VBtn, VIcon } from "vuetify/lib";
+import { VAppBar, VBtn, VIcon, VSpacer, VToolbarTitle } from "vuetify/lib";
 import LanguageSelector from "./LanguageSelector";
 export default {
   name: "NavBar",
@@ -44,5 +44,3 @@ export default {
   },
 };
 </script>
-
-<style></style>

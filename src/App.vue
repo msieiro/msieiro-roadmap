@@ -11,10 +11,10 @@
 
 <script>
 import { VApp, VMain } from "vuetify/lib";
-import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
-import Profile from "./components/Profile";
+import NavBar from "./components/NavBar";
 import ProfessionalCareer from "./components/ProfessionalCareer";
+import Profile from "./components/Profile";
 export default {
   name: "App",
   components: { NavBar, ProfessionalCareer, Footer, Profile, VApp, VMain },

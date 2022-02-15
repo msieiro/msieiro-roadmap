@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import { VMenu, VBtn, VList, VListItemTitle, VDivider } from "vuetify/lib";
+import { VBtn, VDivider, VList, VListItemTitle, VMenu } from "vuetify/lib";
 import languages from "../data/languages";
 export default {
   name: "LanguageSelector",
