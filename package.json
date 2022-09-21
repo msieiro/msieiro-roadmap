@@ -14,7 +14,7 @@
     "postcss-loader": "^6.2.1",
     "vue": "^2.6.11",
     "vue-i18n": "^8.26.3",
-    "vuetify": "^2.6.3"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@intlify/vue-i18n-loader": "^1.1.0",
